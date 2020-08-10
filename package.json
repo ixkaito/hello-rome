@@ -1,0 +1,26 @@
+{
+  "name": "hello-rome",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "rome check"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "rome": "^10.0.3-beta"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixkaito/hello-rome.git"
+  },
+  "keywords": [
+    "rome"
+  ],
+  "author": "Kite",
+  "bugs": {
+    "url": "https://github.com/ixkaito/hello-rome/issues"
+  },
+  "homepage": "https://github.com/ixkaito/hello-rome#readme"
+}
